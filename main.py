@@ -2,6 +2,7 @@ import cv2
 from ultralytics import YOLO
 # pip install opencv-python ultralytics
 
+
 def main():
     # Load the YOLOv8 model
     print("Loading model...")
