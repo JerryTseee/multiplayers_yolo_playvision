@@ -4,6 +4,7 @@ from ultralytics import YOLO
 
 
 
+
 def main():
     # Load the YOLOv8 model
     print("Loading model...")
